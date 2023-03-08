@@ -14,6 +14,22 @@ Algumas áreas de conhecimento da computação chamam minha atenção e meu temp
 * *Artes digitais*
 * *Comunidades de tecnologia*
 
+Ferramentas que utilizo ou já utilizei:
+* *Java*
+* *Javascript (Node.js)*
+* *Rust*
+* *Angular*
+* *C++*
+* *C#*
+* *Python*
+
+Ferramentas que tenho curiosidade em conhecer:
+* *Ocaml*
+* *Elixir*
+* *Scala*
+* *Elm*
+* *Pony*
+
 ### Eng
 ### Hi there, I'm Lucas 👋...
 Curently I'm studying the Computer Science Bachelor at UFLA
