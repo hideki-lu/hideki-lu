@@ -10,25 +10,30 @@ Algumas áreas de conhecimento da computação chamam minha atenção e meu temp
 * *Visão computacional (processamento de imagem digital)*
 * *Computação gráfica (exploração de efeitos visuais)*
 * *Experiência de usuário e desenvolvedor (design de software para diferentes grupos)*
-* *Desenvolvimento Livre e aberto (FLOSS)*
+* *Desenvolvimento de softwares livres e abertos (FLOSS)*
 * *Artes digitais*
 * *Comunidades de tecnologia*
 
-Ferramentas que utilizo ou já utilizei:
-* *Java*
-* *Javascript (Node.js)*
-* *Rust*
-* *Angular*
-* *C++*
-* *C#*
-* *Python*
-
-Ferramentas que tenho curiosidade em conhecer:
-* *Ocaml*
-* *Elixir*
-* *Scala*
-* *Elm*
-* *Pony*
+Tabela de Ferramentas de desenvolvimento:
+|Nomes | Tenho curiosidade| Pretendo estudar/Manter atualizado | Já usei | Uso atualmente | Pretendo usar (projeto pessoal) | Experiência pessoal |   
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|*Java*|⭕|⭕|⭕|⭕|❌|🙂|
+|*Javascript*|⭕|⭕|⭕|⭕|❓|😅|
+|*Rust*|⭕|⭕|⭕|❌|⭕|🤩|
+|*Angular.js*|❌|❌|⭕|⭕|❌|😢|
+|*C++*|⭕|❓|⭕|❌|⭕|🥲|
+|*C#*|🤏|❌|⭕|❌|❌|😊|
+|*Python*|🤏|🤏|⭕|❌|❌|🙃|
+|*OCaml*|⭕|⭕|❌|❌|⭕|🤷|
+|*Elixir*|⭕|⭕|❌|❌|⭕|🤷|
+|*Scala*|⭕|⭕|❌|❌|⭕|🤷|
+|*Elm*|⭕|⭕|❌|❌|⭕|🤷|
+|*Pony*|⭕|⭕|❌|❌|⭕|🤷|
+|*Node.js*|❌|🤏|⭕|⭕|❌|😐|
+|*Deno*|⭕|⭕|🤏|❌|⭕|😊|
+|SQLServer|❌|❌|⭕|❌|❌|🙂|
+|PostgreSQL|❌|🤏|⭕|⭕|❓|😁|
+|MongoDB|🤏|🤏|⭕|❌|⭕|🙂|
 
 ### Eng
 ### Hi there, I'm Lucas 👋...
