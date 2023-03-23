@@ -18,9 +18,9 @@ Algumas áreas de conhecimento da computação chamam minha atenção e meu temp
 ### Informações sobre meu Github
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchaguitos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hideki-lu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchaguitos&layout=compact&locale=pt-br&show_icons=true&theme=tokyonight&&include_all_commits=true&count_private=true"/>    
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hideki-lu&layout=compact&locale=pt-br&show_icons=true&theme=tokyonight&&include_all_commits=true&count_private=true"/>    
 </div>
 
 #### Tabela de minhas ferramentas de desenvolvimento:
@@ -63,9 +63,9 @@ Some fields of knowledge in the computing area that interests me and my time to 
 
 ### Informations about my Github
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchaguitos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hideki-lu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchaguitos&layout=compact&locale=pt-br&show_icons=true&theme=tokyonight&&include_all_commits=true&count_private=true"/>    
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hideki-lu&layout=compact&locale=pt-br&show_icons=true&theme=tokyonight&&include_all_commits=true&count_private=true"/>    
 </div>
 
 #### Table of my development tools:
